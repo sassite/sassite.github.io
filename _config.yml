@@ -1,15 +1,15 @@
 actors:
-  alice:
+  kotoha:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
+    name: ことは
+    url: http://sns.example.com/
+  eteiso:
     image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
+    name: 絵亭奏
+    url: http://sns.example.com/
+author: ことは
+description: さっし手たちのためのPodcast
+description_long: 仕事、生活などのなかで勝手に「さっし」てしまい、結局何もしない個人さっしてが話す、さっし手のためのPodcastです。
 email: info@example.com
 exclude:
   - Gemfile
@@ -17,14 +17,14 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-hashtag: examplehashtag
+hashtag: sassite
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: sassite
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: sassite.fm
+url: https://sassite.github.io
