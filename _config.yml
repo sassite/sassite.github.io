@@ -18,7 +18,7 @@ exclude:
   - README.md
   - vendor
 hashtag: sassite
-itunes_podcast_url:https://itunes.apple.com/us/podcast/sassite-fm/id1251630900
+itunes_podcast_url: https://itunes.apple.com/us/podcast/sassite-fm/id1251630900
 keywords: sassite
 language: ja
 markdown: kramdown
