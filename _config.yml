@@ -2,11 +2,11 @@ actors:
   kotoha:
     image_url: /images/actors/alice.png
     name: ことは
-    url: http://sns.example.com/
+    url: https://twitter.com/sassite_fm
   eteiso:
     image_url: /images/actors/bob.png
     name: 絵亭奏
-    url: http://sns.example.com/
+    url: https://twitter.com/sassite_fm
 author: さっし手
 description: さっし手たちのためのPodcast
 description_long: 仕事、生活などのなかで勝手に「さっし」てしまい、結局何もしない個人さっしてが話す、さっし手のためのPodcastです。
@@ -18,7 +18,7 @@ exclude:
   - README.md
   - vendor
 hashtag: sassite
-itunes_podcast_url:
+itunes_podcast_url:https://itunes.apple.com/us/podcast/sassite-fm/id1251630900
 keywords: sassite
 language: ja
 markdown: kramdown
